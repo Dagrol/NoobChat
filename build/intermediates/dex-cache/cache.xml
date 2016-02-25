@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/pavan/Desktop/NoobChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_48fda3867b42b5ea5f16934aaf1eaabf72c64288.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.5.0/7d40c590385ba95b34920eb89c986757a79968af/socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/socket.io-client-0.5.0_f23598da1fea46befbd786f1926c9e67068bd069.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/Desktop/NoobChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_547d89c967f9a0cc93f59583b67ede2fa3c3ab3e.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.0/72f54ba32a0d735630ebc33a5c39e14a5dd45492/engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/engine.io-client-0.5.0_5456b9307bc97d5998698aacd085b307661cb242.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/Desktop/NoobChat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_7a074d7b6732ea939db572aff401084ce3400859.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/Desktop/NoobChat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.0.0_774c85e7e4d54817e701436b4292e0da6ff5cb10.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/Desktop/NoobChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_666b9d3b3ef287cfa70b4ce26ffc76dd570f6447.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/Desktop/NoobChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.0.0_64d3bda7dd036c9f0affeeb60c85019a48174df8.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_0d660ef85d1de32f3662ef65b7bc39230d080dbd.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_0037bb3540f192c06412251fd3f08aeafbf6956b.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/okio-1.3.0_cfd615b8026a484205307a4b4edd0c069dd5345c.jar" />
+    </item>
+    <item
+        jar="/Users/pavan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/pavan/Desktop/NoobChat/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_164c1579c94002e6ebc32952776a7f01cf646621.jar" />
+    </item>
+
+</items>
